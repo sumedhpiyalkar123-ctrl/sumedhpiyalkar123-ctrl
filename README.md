@@ -47,8 +47,8 @@ I enjoy working with security tools, practising on platforms like **TryHackMe**,
  
 | Certificate | Issuer | Year |
 |---|---|---|
-| 🏅 Cyber Security | BIA (Bharati Vidyapeeth Institute of Advanced Studies) | 2026 |
-| 🏅 Ethical Hacking | BIA (Bharati Vidyapeeth Institute of Advanced Studies) | 2026 |
+| 🏅 Cyber Security | BIA (BOSTON INSTITUTE OF ANALYTICS) | 2026 |
+| 🏅 Ethical Hacking | BIA (BOSTON INSTITUTE OF ANALYTICS) | 2026 |
  
 ---
  
