@@ -56,10 +56,7 @@ I enjoy working with security tools, practising on platforms like **TryHackMe**,
  
 | Repository | Description |
 |---|---|
-| 🔬 [Wireshark-Labs](./Wireshark-Labs) | Packet capture analysis, protocol study & network investigation notes |
-| 🗺️ [Nmap-Cheatsheet](./Nmap-Cheatsheet) | Scanning techniques, flags & practical usage notes |
-| 🚩 [TryHackMe-Writeups](./TryHackMe-Writeups) | CTF challenge solutions & learning notes |
-| 📊 [Splunk-Notes](./Splunk-Notes) | SPL queries, log analysis & SIEM practice |
+
 | 💼 [Internship-Projects](./Internship-Projects) | Work done during internship at Spinnaker Analytics LLC |
  
 ---
